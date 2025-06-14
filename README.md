@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
--  See my portfolio at <a href="https://ompatil7181.github.io/My-portfolio/"> my website </a> 
+-  See my portfolio at <a href="https://ompatil7181.github.io/My-portfolio/"> My portfolio </a> 
 
 - 📫 How to reach me **omkarpatil9403@gmail.com**
 
